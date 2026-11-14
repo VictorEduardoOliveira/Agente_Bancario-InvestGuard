@@ -1,0 +1,3 @@
+pytest>=8
+anthropic>=0.40   # opcional: só para --llm anthropic
+python-dotenv>=1.0  # opcional
